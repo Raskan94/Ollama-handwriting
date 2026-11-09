@@ -1,0 +1,9 @@
+{
+  "id": "ollama-handwriting",
+  "name": "Handwriting to Text (Ollama)",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Scrivi a mano con la penna su una lavagna e ottieni nella colonna destra il testo digitale, trascritto da un modello visione di Ollama.",
+  "author": "Daniele Ciocci",
+  "isDesktopOnly": false
+}

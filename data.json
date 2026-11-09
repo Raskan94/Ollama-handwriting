@@ -1,0 +1,10 @@
+{
+  "ollamaUrl": "http://localhost:11434",
+  "model": "gemma4:31b-cloud",
+  "prompt": "Trascrivi fedelmente il testo scritto a mano presente nell'immagine. Mantieni la lingua originale, gli a capo, gli elenchi puntati e le formule (in LaTeX tra $). Rispondi SOLO con il testo trascritto in Markdown, senza commenti, introduzioni o spiegazioni.",
+  "autoTranscribe": true,
+  "autoDelaySec": 1,
+  "penOnly": true,
+  "penWidth": 1,
+  "clearAfterInsert": false
+}
